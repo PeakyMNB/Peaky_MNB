@@ -33,7 +33,7 @@ Here are some of the projects I have worked on:
 ## 📂 How to Use This Repo
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PeakyMNB/portfolio.git
+   https://github.com/PeakyMNB/Peaky_MNB.git
    ```
 2. Open the `index.html` file in your browser (for static sites) or deploy using **Netlify, Vercel, or GitHub Pages**.
 
