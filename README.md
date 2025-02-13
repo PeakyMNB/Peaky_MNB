@@ -11,17 +11,17 @@ Here are some of the projects I have worked on:
 ### 1️⃣ **FrontEnd(#)**
    - 🔹 **Technology:** Webflow
    - 🔹 **Features:** Fully responsive, animations, SEO optimized
-   - 🔹 **Live Demo:** [View Project](#)
+   - 🔹 **Live Demo:** [https://www.venturenewzealand.co.nz/](#)
 
 ### 2️⃣ **Backend(#)**
    - 🔹 **Technology:** WordPress + Elementor
    - 🔹 **Features:** Custom theme, eCommerce, fast loading
-   - 🔹 **Live Demo:** [View Project](#)
+   - 🔹 **Live Demo:** [[View Project](https://www.cleverhealth.ai/)](#)
 
 ### 3️⃣ **NojeJs(#)**
    - 🔹 **Technology:** HTML, CSS, JavaScript
    - 🔹 **Features:** Interactive UI, dark mode, modern design
-   - 🔹 **Live Demo:** [View Project](#)
+   - 🔹 **Live Demo:** [https://www.chegg.com/](#)
 
 ## 🛠️ Technologies & Tools
 - **Webflow** – No-code website builder for professional designs
